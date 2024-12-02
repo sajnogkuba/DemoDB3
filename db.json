@@ -1,0 +1,52 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "position": "Software Developer",
+      "department": "IT"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "position": "HR Specialist",
+      "department": "HR"
+    },
+    {
+      "id": 3,
+      "name": "Alice Johnson",
+      "position": "Product Manager",
+      "department": "Management"
+    },
+    {
+      "id": 4,
+      "name": "Robert Brown",
+      "position": "Data Analyst",
+      "department": "Business Intelligence"
+    },
+    {
+      "id": 5,
+      "name": "Emily Davis",
+      "position": "UX Designer",
+      "department": "Design"
+    },
+    {
+      "id": 6,
+      "name": "Michael Wilson",
+      "position": "DevOps Engineer",
+      "department": "IT"
+    },
+    {
+      "id": 7,
+      "name": "Sophia Martinez",
+      "position": "Marketing Specialist",
+      "department": "Marketing"
+    },
+    {
+      "id": 8,
+      "name": "Liam Anderson",
+      "position": "Sales Representative",
+      "department": "Sales"
+    }
+  ]
+}
